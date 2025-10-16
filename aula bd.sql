@@ -6,7 +6,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 /* Enter your sql queries here */
-se rod;
+use rod;
 
 create table tab_cliente(
 id_cliente INT (5) primary key auto_increment,
